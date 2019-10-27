@@ -1,0 +1,10 @@
+D:\Projects\C#\UnitConverter\UnitConverterCopy\bin\Debug\UnitConverterCopy.exe.config
+D:\Projects\C#\UnitConverter\UnitConverterCopy\bin\Debug\UnitConverterCopy.exe
+D:\Projects\C#\UnitConverter\UnitConverterCopy\bin\Debug\UnitConverterCopy.pdb
+D:\Projects\C#\UnitConverter\UnitConverterCopy\obj\Debug\UnitConverterCopy.csprojAssemblyReference.cache
+D:\Projects\C#\UnitConverter\UnitConverterCopy\obj\Debug\UnitConverterCopy.Properties.Resources.resources
+D:\Projects\C#\UnitConverter\UnitConverterCopy\obj\Debug\UnitConverterCopy.csproj.GenerateResource.cache
+D:\Projects\C#\UnitConverter\UnitConverterCopy\obj\Debug\UnitConverterCopy.csproj.CoreCompileInputs.cache
+D:\Projects\C#\UnitConverter\UnitConverterCopy\obj\Debug\UnitConverterCopy.exe
+D:\Projects\C#\UnitConverter\UnitConverterCopy\obj\Debug\UnitConverterCopy.pdb
+D:\Projects\C#\UnitConverter\UnitConverterCopy\obj\Debug\UnitConverterCopy.MainForm.resources
